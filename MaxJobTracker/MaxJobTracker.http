@@ -1,0 +1,6 @@
+@MaxJobTracker_HostAddress = http://localhost:5246
+
+GET {{MaxJobTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
